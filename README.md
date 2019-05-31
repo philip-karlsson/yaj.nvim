@@ -1,3 +1,3 @@
 # Yaj
 
-Yet another jumper
+Yet another jumper (moved to https://github.com/philip-karlsson/aerojump.nvim)
